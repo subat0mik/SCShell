@@ -1,0 +1,6 @@
+C:\Users\offsec.CORP1.000\Desktop\scshell\scshell\bin\x64\Release\scshell.exe.config
+C:\Users\offsec.CORP1.000\Desktop\scshell\scshell\bin\x64\Release\scshell.exe
+C:\Users\offsec.CORP1.000\Desktop\scshell\scshell\bin\x64\Release\scshell.pdb
+C:\Users\offsec.CORP1.000\Desktop\scshell\scshell\obj\x64\Release\scshell.csprojAssemblyReference.cache
+C:\Users\offsec.CORP1.000\Desktop\scshell\scshell\obj\x64\Release\scshell.exe
+C:\Users\offsec.CORP1.000\Desktop\scshell\scshell\obj\x64\Release\scshell.pdb
